@@ -1,15 +1,9 @@
 # Front-extension
 
 ## Front extension irectory structure
-Front:
-      |manifest.json
-      |front-pupup.html
-      |front.css
-      |front.js
-      |gifs: 
-            |All gifs used in the HTML file
-      |img:
-            |logo, background and images...
+
+![image](https://user-images.githubusercontent.com/37409120/121191130-f6a50d80-c86b-11eb-98ea-02db70234ba2.png)
+            
             
 
 ## Learn more by checking out this article:
